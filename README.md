@@ -4,13 +4,13 @@ Aplicação em Python que cria senhas de forma automática e que também as salv
 
 # Bibliotecas utilizadas
 
--> PySimpleGUI: 
+> PySimpleGUI: 
 
 - Usado para a criação de uma interface para facilitar para o usuário final;
 
--> Random e String: 
+> Random e String: 
 
-- Bilbioteca utilizada para a criação e diversificação das senhas.
+- Bilbiotecas utilizadas para a criação e diversificação das senhas.
 
 # Utilizações do programa
 
